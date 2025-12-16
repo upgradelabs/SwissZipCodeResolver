@@ -1,4 +1,4 @@
-> :warning: This project is a fork of 
+> :warning: This project is a fork of onlime/swiss-zip-code-resolver
 
 # Onlime's Swiss Zip Code Resolver
 
