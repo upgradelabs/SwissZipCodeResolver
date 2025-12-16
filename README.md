@@ -15,7 +15,7 @@ The [zip](http://php.net/zip) extension is required. PHP should be compiled with
 It is recommended to use [Composer](https://getcomposer.org) to install the library.
 
 ```bash
-$ composer require onlime/swiss-zip-code-resolver
+$ composer require upgradelabs/swiss-zip-code-resolver
 ```
 
 You can also use any other [PSR-4](http://www.php-fig.org/psr/psr-4/) compliant autoloader.
